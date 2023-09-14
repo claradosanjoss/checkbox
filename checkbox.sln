@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33927.210
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkbox", "checkbox\checkbox.csproj", "{243D7DF6-DEB4-4E27-A2BD-65468924F6F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagemProjeto", "ImagemProjeto\ImagemProjeto.csproj", "{150670BD-FDD8-45F9-8843-D7098CCEDD4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243D7DF6-DEB4-4E27-A2BD-65468924F6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243D7DF6-DEB4-4E27-A2BD-65468924F6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243D7DF6-DEB4-4E27-A2BD-65468924F6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243D7DF6-DEB4-4E27-A2BD-65468924F6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150670BD-FDD8-45F9-8843-D7098CCEDD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150670BD-FDD8-45F9-8843-D7098CCEDD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150670BD-FDD8-45F9-8843-D7098CCEDD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150670BD-FDD8-45F9-8843-D7098CCEDD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F3DC51-8AD5-4AE1-BEEB-426584C81347}
+	EndGlobalSection
+EndGlobal
